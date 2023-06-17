@@ -1,0 +1,10 @@
+name: Locate-Chat
+version: '${project.version}'
+main: net.cherryleaves.locatechat.LocateChat
+api-version: 1.16
+authors: [ sakuraba_jp ]
+commands:
+  startflow:
+    description: start time flow.
+  stopflow:
+    description: stop time flow.
